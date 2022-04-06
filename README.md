@@ -13,26 +13,26 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 </p>
 
 
-The XTool D1 Laser Cutter I have: 
+# The XTool D1 Laser Cutter I have: 
 
 https://amzn.to/3Klrds8
 
 
-Modifications (Buy): 
+# Modifications (Buy): 
 
-Exhaust Fan: https://amzn.to/3Klrds8
+- Exhaust Fan: https://amzn.to/3Klrds8
 
-Exhaust Hose: https://amzn.to/3ubbRR4
+- Exhaust Hose: https://amzn.to/3ubbRR4
 
-700mm X 700mm Wooden Base: @holzworks on Instagram or https://www.facebook.com/holzworkz/?msclkid=5e563b01b53c11ec90d630bfe4662588
+- 700mm X 700mm Wooden Base: @holzworks on Instagram or https://www.facebook.com/holzworkz/?msclkid=5e563b01b53c11ec90d630bfe4662588
 
-Modifications (Make)
+# Modifications (Make)
 
-3D Printed Feet mounts/guides
+- 3D Printed Feet mounts/guides
 
-4" Duct Adapter
+- 4" Duct Adapter
 
-Height Adjuster (stop removing feet) 
+- Height Adjuster (stop removing feet) 
 
-Aligment Pattern: 
+- Aligment Pattern: 
 
