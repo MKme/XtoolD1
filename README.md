@@ -1,5 +1,12 @@
 # XtoolD1
 <p align="center">
+<b>XTool D1 Laser  Cutter reference files tips and tricks I find along the way</b><br>
+
+<p align="center"><img src="https://github.com/MKme/XtoolD1/blob/main/photos/A9809F89-1D33-4C69-96A0-CFF4385C8824.jpg"/>
+My D1 10 Watt Laser Cutter
+  <br>
+
+<p align="center">
 <b>XTool D1 Laser Cutter/Engraver 10W  </b>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
@@ -13,6 +20,12 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 ## The XTool D1 Laser Cutter I have: 
 
 https://amzn.to/3Klrds8
+
+<p align="center"><img src="https://github.com/MKme/XtoolD1/blob/main/photos/8A91F15B-6365-4BF9-BC1F-D20A4655718D.jpg"/>
+Kit
+  <br>
+
+<p align="center">
 
 ## XTool D1 Video
 
