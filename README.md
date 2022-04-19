@@ -40,6 +40,12 @@ K40 Github Repo (lots of handy stuff for laser cutting) https://github.com/MKme/
 
 ## Modifications (Buy): 
 
+- D1 Lasercutter Amazon: https://amzn.to/3Klrds8
+
+- D1 Lasercutter Web: 
+
+- 700mm X 700mm Wooden Base (Spoilboard) @holzworks on Instagram or https://www.facebook.com/holzworkz/?msclkid=5e563b01b53c11ec90d630bfe4662588
+
 - PLA+ Filament for Printing below parts: https://amzn.to/3EqD4mt
 
 - Best Printer for printing laser parts and other fun stuff (only $259 dollars right now) https://amzn.to/3uVmLe8
@@ -47,8 +53,6 @@ K40 Github Repo (lots of handy stuff for laser cutting) https://github.com/MKme/
 - 4" Exhaust Fan: https://amzn.to/3Klrds8
 
 - 4" Exhaust Hose: https://amzn.to/3ubbRR4
-
-- 700mm X 700mm Wooden Base (Spoilboard) @holzworks on Instagram or https://www.facebook.com/holzworkz/?msclkid=5e563b01b53c11ec90d630bfe4662588
 
 
 ## Modifications (Make)
