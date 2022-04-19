@@ -67,7 +67,9 @@ K40 Github Repo (lots of handy stuff for laser cutting) https://github.com/MKme/
 
 - Height Adjuster https://www.etsy.com/au/listing/1190602138/xtool-d1-height-extensionfan-shroud-stl?click_key=c463285170f4dcb3f40299bb8189e9e3465ca028%3A1190602138&click_sum=aac41801&ref=sold_out-1
 
-- Rotoray levelling jack: https://github.com/MKme/XtoolD1/tree/main/3D%20Print%20Files/rotary%20leveling%20jack
+- Rotary levelling jack: https://github.com/MKme/XtoolD1/tree/main/3D%20Print%20Files/rotary%20leveling%20jack
+
+- Air assist https://www.thingiverse.com/thing:5188544/files
 
 ## Supplies I use
 
