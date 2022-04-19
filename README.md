@@ -27,6 +27,10 @@ K40 Github Repo (lots of handy stuff for laser cutting) https://github.com/MKme/
 
 ## Modifications (Buy): 
 
+- PLA+ Filament for Printing below parts: https://amzn.to/3EqD4mt
+
+- Best Printer for printing laser parts and other fun stuff (only $259 dollars right now) https://amzn.to/3uVmLe8
+
 - 4" Exhaust Fan: https://amzn.to/3Klrds8
 
 - 4" Exhaust Hose: https://amzn.to/3ubbRR4
@@ -42,7 +46,7 @@ K40 Github Repo (lots of handy stuff for laser cutting) https://github.com/MKme/
 
 - 4" exhaust duct adapter https://www.thingiverse.com/thing:4799952
 
-- 4" exhaust duct Y pipe (if you have 2 lasers like me) 
+- 4" exhaust duct Y pipe (if you have 2 lasers like me) https://www.thingiverse.com/thing:4695234/files
 
 - Height Adjuster https://www.etsy.com/au/listing/1190602138/xtool-d1-height-extensionfan-shroud-stl?click_key=c463285170f4dcb3f40299bb8189e9e3465ca028%3A1190602138&click_sum=aac41801&ref=sold_out-1
 
@@ -60,3 +64,5 @@ Dollar store craft section is BEST!
 ## Things To Make
 
 - Boxes https://festi.info/boxes.py
+
+- Business cards https://www.youtube.com/watch?v=g9tuA0RBPQQ&list=PLxyM2a_cfnzh4BQ6e20lYyFzN7XcakLek&index=3
