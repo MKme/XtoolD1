@@ -48,6 +48,14 @@ K40 Github Repo (lots of handy stuff for laser cutting) https://github.com/MKme/
 
 - Rotoray levelling jack: https://github.com/MKme/XtoolD1/tree/main/3D%20Print%20Files/rotary%20leveling%20jack
 
+## Supplies I use
+
+Buy aluminum business cards https://ebay.us/qxsMzO
+
+3mm Baltic Birch Plywood https://amzn.to/3pyELrw
+
+Dollar store craft section is BEST!
+
 
 ## Things To Make
 
