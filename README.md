@@ -2,7 +2,7 @@
 <p align="center">
 <b>XTool D1 Laser  Cutter reference files tips and tricks I find along the way</b><br>
 
-<p align="center"><img src="https://github.com/MKme/XtoolD1/blob/main/photos/A9809F89-1D33-4C69-96A0-CFF4385C8824.jpg"/>
+<p align="center"><img src="https://github.com/MKme/XtoolD1/blob/main/photos/A9809F89-1D33-4C69-96A0-CFF4385C8824.jpg"/>  <br>
 My D1 10 Watt Laser Cutter
   <br>
 
@@ -21,7 +21,7 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 
 https://amzn.to/3Klrds8
 
-<p align="center"><img src="https://github.com/MKme/XtoolD1/blob/main/photos/8A91F15B-6365-4BF9-BC1F-D20A4655718D.jpg"/>
+<p align="center"><img src="https://github.com/MKme/XtoolD1/blob/main/photos/8A91F15B-6365-4BF9-BC1F-D20A4655718D.jpg"/>  <br>
 Kit
   <br>
 
